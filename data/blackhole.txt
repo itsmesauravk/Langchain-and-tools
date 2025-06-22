@@ -1,0 +1,11 @@
+A black hole is a region in space where gravity is so strong that nothing—not even light—can escape from it. 
+This immense gravitational pull occurs because a large amount of mass has been compressed into an extremely small area. 
+Black holes are often formed when massive stars collapse at the end of their life cycles. The boundary around a black hole 
+is called the event horizon—once something crosses it, it can never return. Although black holes are invisible by nature,
+scientists detect them by observing the effects they have on nearby stars and light.
+
+There are different types of black holes, ranging from stellar black holes (formed from collapsing stars) to supermassive black holes,
+which exist at the centers of most galaxies, including our Milky Way. These can be millions to billions of times more massive than our
+sun. Black holes can also merge with each other, releasing powerful gravitational waves that can now be detected by instruments like LIGO.
+Despite decades of study, black holes remain one of the most mysterious and intriguing phenomena in astrophysics, raising questions
+about the nature of space, time, and the limits of human understanding.
